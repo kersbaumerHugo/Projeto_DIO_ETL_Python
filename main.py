@@ -1,6 +1,5 @@
 from requests import request
-from pandas import DataFrame,to_datetime
-from pandas import to_datetime
+from pandas import DataFrame
 from matplotlib import pyplot as plt
 
 class RequestError(Exception):
