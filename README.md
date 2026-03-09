@@ -34,9 +34,7 @@ Este projeto realiza a extração dos dados da taxa Selic diretamente da API do 
   ```bash
   python simulador_selic.py
    ```
-##📷 Exemplos
-
-###Gráfico gerado
+##📷 Exemplo
 
 ![Gráfico da evolução considerando patrimônio de R$1000,00 e 2 meses](images/graph.png)
 
