@@ -36,7 +36,7 @@ Este projeto realiza a extração dos dados da taxa Selic diretamente da API do 
    ```
 ##📷 Exemplos
 ###Gráfico gerado
-![Gráfico da evolução considerando patrimônio de R$1000,00 e 2 meses](images/grafico.png)
+![Gráfico da evolução considerando patrimônio de R$1000,00 e 2 meses](images/graph.png)
 ##💡 Aprendizados
 Consumo de APIs públicas e manipulação de dados em tempo real.
 Aplicação de lógica de juros compostos para simulação financeira.
