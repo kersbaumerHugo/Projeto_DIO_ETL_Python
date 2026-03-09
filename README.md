@@ -24,15 +24,15 @@ Este projeto realiza a extração dos dados da taxa Selic diretamente da API do 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone https://github.com/kersbaumerHugo/Projeto_DIO_ETL_Python.git
    ```
 2. Instale as dependências:
    ```bash
    pip install pandas matplotlib requests
    ```
 3. Execute o script principal:
-  ```bash
-  python simulador_selic.py
+   ```bash
+   python simulador_selic.py
    ```
 ##📷 Exemplo
 
