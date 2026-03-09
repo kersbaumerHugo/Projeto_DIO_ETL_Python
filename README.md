@@ -37,15 +37,19 @@ Este projeto realiza a extração dos dados da taxa Selic diretamente da API do 
 ##📷 Exemplos
 ###Gráfico gerado
 ![Gráfico da evolução considerando patrimônio de R$1000,00 e 2 meses](images/graph.png)
+
+
 ##💡 Aprendizados
 Consumo de APIs públicas e manipulação de dados em tempo real.
 Aplicação de lógica de juros compostos para simulação financeira.
 Visualização de dados para facilitar a tomada de decisão.
 Tratamento de erros para garantir robustez do sistema.
+
 ##📈 Possíveis melhorias
 Permitir escolha de outros índices (ex: CDI, IPCA).
 Exportar resultados para CSV ou Excel.
 Interface gráfica para facilitar o uso.
 Deploy como aplicação web.
+
 ##📬 Contato
 Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/hugo-kersbaumer/) ou abrir uma issue neste repositório!
